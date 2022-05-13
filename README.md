@@ -1,0 +1,1 @@
+This repo contains sql code (MS SQL Server) of medium and hard challenges on HackerRank.
